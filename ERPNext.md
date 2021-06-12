@@ -1,7 +1,19 @@
 # AN OVERVIEW OF ERPNext
 ERPNext is a 100% open source full-featured business management solution that helps bisinesses to record all their business transactions in a single system.
 The system supports multiple domains such as Manufacturing, Distribution, Services, Retail, Education, Healthcare, Agriculture, and Non-profit.
-ERPNext will assist you in keeping track of all invoices and payments. Find out how many of each product are currently in stock. Make a list of your critical performance indicators and keep track of them (KPIs). Determine the status of open client inquiries. Manage the payroll of your employees. Assign tasks and keep track of them. Keep track of all of your customers, suppliers, and contacts in a database. Quotation to be prepared and followed up on. Keep track of your spending and budgeting.ERPNext is an amazing enterprise resource planning software the tool is very stable, completely scalable, and simple to manage and implement and its ability to provide solutions in any environment makes it an user friendly platform for improving work performance.
+
+ERPNext will assist you in:
+ 
+  * Keeping track of all invoices and payments.
+  * Find out how many of each product are currently in stock.
+  * Make a list of your critical performance indicators and keep track of them (KPIs). 
+  * Determine the status of open client inquiries. Manage the payroll of your employees. 
+  * Assign tasks and keep track of them. 
+  * Keep track of all of your customers, suppliers, and contacts in a database. 
+  * Quotations to be prepared and followed up on.
+  * Keep track of your spending and budgeting.
+
+ERPNext is an amazing enterprise resource planning software the tool is very stable, completely scalable, and simple to manage and implement and its ability to provide solutions in any environment makes it an user friendly platform for improving work performance.
 
 ## The following are ERPNext's best features
 
@@ -43,14 +55,36 @@ ERPNext's website and portals module offers a feature-rich content management so
 
 ERPNext software can be installed on-premises or in the cloud on platforms like google cloud and amazon web services(AWS), depending on the needs of the organization. If there are compatible servers already in place it can be installed there and accessed via the web. ERPNext being web-based software it is  accessible  via  Windows, Linux, iOS, or Android devices.
 
-ERPNext provides support and maintenance on various packages depending on the type of subscription. Quest ERP Solutions, based in Sandton City, Johannesburg, South Africa, provides 24/7 and custom service level agreements, consultancy services, and ERPNext training. The following are some of support services:
+## Benefits of ERPNext 
 
-    1. Bug fix warranty 
-    2. Upgrade Support
-    3. In App Support 
-    4. Product Support 
-    5. Migrations
-    6. Security Alerts 
+### Cost Effective 
+
+There is no software licensing cost associated with ERPNext. It is open source.
+
+### Neat and Responsive User Interface (UI)
+
+The user interface is web-based and very easy to understand. Training of users after deployment is faster.
+
+### Mobility and Flexibility
+
+The free ERPNext mobile app available on google play store and ios,allows you to stay focused on what matters by allowing you to keep your business moving from anywhere. From your phone or tablet, you may access accounts, change projects and quotations, and swiftly complete tasks.
+
+### Website creation and design
+
+A platform that allows you to build, design, manage, and develop your web presence in minutes. Allows you to modify the look and feel of your website to match your brand using a simple yet powerful website builder with advanced theming capabilities.
+
+### Customizable to meet the exact needs of the business
+
+The Frappe Framework which ERPNext is built on makes it very easy to customize the system without even knowing the code.
+
+## Support and Maintanace 
+ERPNext provides support and maintenance on various packages depending on the type of subscription. Quest ERP Solutions, based in Sandton City, Johannesburg, South Africa,consulting, support,deployment and ERPNext training. The following are some of support services:
+
+    1. Consulting 
+    2. Support
+    3. Training  
+    4. Deployment 
+  
 
 
 In a nutshell,ERPNext was designed to achieve business compliance in the shortest possible time and the most efficient way. 
