@@ -91,18 +91,23 @@ ERPNext's preconfigured reports have detailed information .
 ERPNext is based on off-the-shelf open source components and standardized service oriented.his makes ERPNext comparatively easy to scale.
 web architecture.
 
+### Two Factor Authentication
+
+ERPNext has a two factor authentication (2FA)  a method of confirming a user's claimed identity in which the user is granted access only after successfully presenting two or more pieces of evidence (or factors) to an authentication mechanism: knowledge (something they and only they know), possession (something they and only they have), and inherence (something they and only they have) (something they and only they are). This makes it very secure.
 
 ## Support and Maintanace 
 
 ERPNext provides support and maintenance on various packages depending on the type of subscription. Quest ERP Solutions, based in Johannesburg, South Africa,consulting, support,deployment and ERPNext training. The following are some of support services:
 
-    1. Consulting 
+    1. Consulting
     2. Support
     3. Training  
     4. Deployment 
   
 
+## Conclusion 
 
-In a nutshell,ERPNext was designed to achieve business compliance in the shortest possible time and the most efficient way. 
-Companies that have migrated to ERPNext have reduced by over 50% their expenditure on software. 
+In a nutshell,ERPNext was designed to achieve business compliance in the shortest possible time and the most efficient way. Having ERPNext creates a collaborative work atmosphere encourages creativity and boosts output. The efficiency of day-to-day company procedures improves, and total costs reduce significantly. There is  increased information security as data will be protected from a central point.
+
+Companies that have migrated to ERPNext have reduced by over 50% their expenditure on software.
 
