@@ -19,23 +19,23 @@ ERPNext is an amazing enterprise resource planning software the tool is very sta
 
 ### Accounting 
 
-You get a fully-featured accounting module that covers all part of bookkeeping, from cash flow tracking to making financial reports that indicate income, expenditure, profit, and important accounting element.
+You get a fully-featured accounting module that covers all part of bookkeeping, from cash flow tracking to making financial reports that indicate income, expenditure, profit, and important accounting element.The accounting module has a dashboards that provide a quick overview of all major performance indicators. It's possible to analyze every aspect of your business in one location, thanks to configurable accounting dimensions and customisable dashboards.
 
 ### HR and payroll
 
-Track every employee's life cycle, including their start date, termination date, hours worked, wages,leave applications and net pay, all from one place.
+Track every employee's life cycle, including their start date, termination date, hours worked, wages,leave applications and net pay, all from one place.With our ERPNext's HRMS & payroll module, you can easily manage expenses, trip requests, and employee advances. Managers may use ERPNext to examine all of their employees' expenses in one place. Simple approvals and out-of-the-box customisable workflows reduce the amount of time spent manually processing expense claims.
 
 ### Manufacturing
 
-Manage pricing, plan and track inventories, and manage job forms by e-signing bills of materials.
+Manage pricing, plan and track inventories, and manage job forms by e-signing bills of materials.ERPNext will display every part of your Material Resouce Planning (MRP), whether it's a work order against sales or material requirements. To cut costs and eliminate waste, keep track of serialized or batched inventory's material use.
 
 ### Customer relationship management (CRM)
 
-Keep track of the entire sales process and devise strategies for gaining new clients and leads.
+The CRM module helps keep track of the entire sales process and devise strategies for gaining new clients and leads.ERPNext will make sure you don't miss out on any of your sales leads. So that your sales force doesn't have to switch between applications, ERPNext makes it simple to transform all interactions into data. The CRM has a platform to do email campaigns for targeted marketing, stunning newsletters to send bulk emails to your clients, and comprehensive lead source analysis to enjoy the rewards of your marketing campaigns.
 
 ### Help desk
 
-Manage tickets and track both solutions and customer satisfaction levels to effectively assess and manage the entire support process. You have the option to view reports that help identify where your support process might need improvement.
+Manage tickets and track both solutions and customer satisfaction levels to effectively assess and manage the entire support process. You have the option to view reports that help identify where your support process might need improvement.The help desk module make it possible to set up assignment rules to automatically allocate tickets across the team eliminates the overhead of manual work. This gives your SaaS support desk additional time to reply to clients, allowing them to meet commitments on time
 
 ### Quality Management Module 
 
@@ -73,12 +73,28 @@ The free ERPNext mobile app available on google play store and ios,allows you to
 
 A platform that allows you to build, design, manage, and develop your web presence in minutes. Allows you to modify the look and feel of your website to match your brand using a simple yet powerful website builder with advanced theming capabilities.
 
+### E-Commerce
+
+You may create an e-commerce store on your website using ERPNext. As it stands, any contemporary business, especially in this digital age, need an internet presence. This aids in the acquisition of new consumers and the creation of data insights, both of which are beneficial to the company's overall strategy.
+
+
 ### Customizable to meet the exact needs of the business
 
-The Frappe Framework which ERPNext is built on makes it very easy to customize the system without even knowing the code.
+ERPNext is built on top of the excellent Frappe Framework, which allows you to create and customize business items directly from the user interface without having to deploy any code. Frappe has a permissions architecture built in, as well as a configurable workflow, reports, print formats, content management, portals, and more.
+
+### Detailed Custom Reports
+
+ERPNext's preconfigured reports have detailed information .
+
+### Quick to deploy and Scale
+
+ERPNext is based on off-the-shelf open source components and standardized service oriented.his makes ERPNext comparatively easy to scale.
+web architecture.
+
 
 ## Support and Maintanace 
-ERPNext provides support and maintenance on various packages depending on the type of subscription. Quest ERP Solutions, based in Sandton City, Johannesburg, South Africa,consulting, support,deployment and ERPNext training. The following are some of support services:
+
+ERPNext provides support and maintenance on various packages depending on the type of subscription. Quest ERP Solutions, based in Johannesburg, South Africa,consulting, support,deployment and ERPNext training. The following are some of support services:
 
     1. Consulting 
     2. Support
@@ -88,5 +104,5 @@ ERPNext provides support and maintenance on various packages depending on the t
 
 
 In a nutshell,ERPNext was designed to achieve business compliance in the shortest possible time and the most efficient way. 
-Companies that have migrated to ERPNext have reduced by over 50% their expenditure on software.
+Companies that have migrated to ERPNext have reduced by over 50% their expenditure on software. 
 
