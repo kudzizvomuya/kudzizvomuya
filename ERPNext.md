@@ -1,4 +1,6 @@
 # AN OVERVIEW OF ERPNext
+![](ERPNext-logo)![ERPNext-logo](https://user-images.githubusercontent.com/85683217/121818178-f484e980-cc85-11eb-9172-0b25e16c5859.png)
+
 ERPNext is a 100% open source full-featured business management solution that helps bisinesses to record all their business transactions in a single system.
 The system supports multiple domains such as Manufacturing, Distribution, Services, Retail, Education, Healthcare, Agriculture, and Non-profit.
 
@@ -16,6 +18,10 @@ ERPNext will assist you in:
 ERPNext is an amazing enterprise resource planning software the tool is very stable, completely scalable, and simple to manage and implement and its ability to provide solutions in any environment makes it an user friendly platform for improving work performance.
 
 ## The following are ERPNext's best features
+
+![](dash.png)![dash](https://user-images.githubusercontent.com/85683217/121819868-cb695680-cc8f-11eb-91be-676b293b5503.png)
+
+
 
 ### Accounting 
 
@@ -48,6 +54,9 @@ With ERPNext’s sales and purchases module, you have the ability to increase yo
 ### Customization and Integrations
 
 Because ERPNext is an open-source system, it allows for a lot of customization and integration. With print formats, custom scripts, custom fields, and other features, you can quickly personalize your ERPNext platform.
+![](erpnext-integration-service-500x500.png)
+![erpnext-integration-service-500x500](https://user-images.githubusercontent.com/85683217/121818136-a4a62280-cc85-11eb-8a81-89532a0b882c.png)
+
 
 ###   Website and portal
 
@@ -69,6 +78,9 @@ The user interface is web-based and very easy to understand. Training of users a
 
 The free ERPNext mobile app available on google play store and ios,allows you to stay focused on what matters by allowing you to keep your business moving from anywhere. From your phone or tablet, you may access accounts, change projects and quotations, and swiftly complete tasks.
 
+![](project-management-softwarem-500x500-1.png)![project-management-softwarem-500x500-1](https://user-images.githubusercontent.com/85683217/121817990-ce127e80-cc84-11eb-8d85-4de2a485c966.png)
+
+
 ### Website creation and design
 
 A platform that allows you to build, design, manage, and develop your web presence in minutes. Allows you to modify the look and feel of your website to match your brand using a simple yet powerful website builder with advanced theming capabilities.
@@ -76,7 +88,7 @@ A platform that allows you to build, design, manage, and develop your web presen
 ### E-Commerce
 
 You may create an e-commerce store on your website using ERPNext. As it stands, any contemporary business, especially in this digital age, need an internet presence. This aids in the acquisition of new consumers and the creation of data insights, both of which are beneficial to the company's overall strategy.
-
+![](erpnext_e-commerce.jpg)
 
 ### Customizable to meet the exact needs of the business
 
@@ -110,4 +122,6 @@ ERPNext provides support and maintenance on various packages depending on the t
 In a nutshell,ERPNext was designed to achieve business compliance in the shortest possible time and the most efficient way. Having ERPNext creates a collaborative work atmosphere encourages creativity and boosts output. The efficiency of day-to-day company procedures improves, and total costs reduce significantly. There is  increased information security as data will be protected from a central point.
 
 Companies that have migrated to ERPNext have reduced by over 50% their expenditure on software.
+
+
 
