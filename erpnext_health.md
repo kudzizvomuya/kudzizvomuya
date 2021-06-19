@@ -24,9 +24,9 @@ you may include information such as budgets, vacancies, anticipated cost per job
 The recruiting procedure is a time-consuming process.
 When a position becomes available at your business, the following steps are typically followed:
 
-** When you post a job opportunity, individuals will come and apply for it.
-** Participants in the job application process (in certain cases, they may have been referred to you by another employee!)
-** Interviews are performed with the candidates.
+- When you post a job opportunity, individuals will come and apply for it.
+- Participants in the job application process (in certain cases, they may have been referred to you by another employee!)
+- Interviews are performed with the candidates.
 
 Once you've decided on someone, you make them an offer of employment (this states the offered salary package, designation, grade, department, number of leave days, etc.).
 If they agree, they will be granted an offer appointment letter.
