@@ -329,7 +329,8 @@ This refers to the help desk,to track customer tickets and issues, maintain serv
 - Create a new quality goal 
 > Home > Quality > Quality Procedures
 - Create new quality procedure 
-> Home > Quality > Quality Feedback > New Qulity Feedback Template 
+> Home > Quality > Quality Feedback > 
+- New Quality Feedback Template 
 
 
 
