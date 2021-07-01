@@ -142,6 +142,11 @@ In case, an item is used only in trading, you can categorize it under an Item Gr
 ### 3.3 Import Items Using Data Import Tool,
 > Home > Data Import and Settings > Import Data
 - Create import list based on the doc type
+### 3.3.1 Import Items 
+> Data Import > Add New Data Import >Items 
+- Attach xls or csv below is an  
+![Items_import_template ](https://user-images.githubusercontent.com/85683217/124181512-e02e5280-dab5-11eb-98e6-ab141232b16e.png)
+
 
 ## Import Contact and Addresses
 Home > CRM > Sales Pipeline > Contact
@@ -152,6 +157,7 @@ Home > CRM > Sales Pipeline > Contact
 
 ### 4.1 Create a supplier
 > Home > Buying > Supplier > Supplier
+> 
 
 Create Supplier
 ### 4.2 Create Supplier Group
@@ -186,8 +192,8 @@ or
 - Default Price list.
 - Quotation Validity Days.
 - Choose if sales order is required before Invoice or delivery note 
-## Payroll
-### Payroll Settings 
+##  6.0 Payroll
+### 6.1 Payroll Settings 
 > Home > Payroll > Payroll Settings 
 
 **Here you configure the following**
@@ -230,6 +236,7 @@ or
 ### Employment Type
 > Home > Human Resources > Employee > Employment Type
 - Create the type of employment e.g permanent,contract,casual 
+- 
 ### Create Department 
 > Home > Human Resources > Employee > Department
 - Create a new department on top of the ones which come pre configured by ERPNEXT 
@@ -247,10 +254,10 @@ or
 ### Adjust HR Settings
 
 > Home > Human Resources > Settings > HR Settings
-- Set Retirement age
-- Working Hours 
-- Change Employee Naming Series
-- Stop Bithday reminders
+- Set Retirement age to 65 
+- set stndard Working Hours 8 
+- Change Employee Naming Series 
+- Untick Stop Bithday reminders
 - Set expenses approver to mandatory 
 - Set the leave application and approval notifications 
 - Activate check vacancy on Job Offer Creation 
