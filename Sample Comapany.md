@@ -155,9 +155,9 @@ Home > CRM > Sales Pipeline > Contact
 
 Create Supplier
 ### 4.2 Create Supplier Group
+> Home > Buying > Supplier Group
 - Supplier Groups is a way to classify supplier based on the product they supply to the company 
 ### 4.3 Go to Buying settings  
-**To access buying settings got to**
 > Home > Buying > Settings > Buying Settings
  - Select Default Supplier Group
  - Configure what should be the default value of Supplier Group when creating a new Supplier. For example,if most of your suppliers supply you hardware, you can set the default as 'Hardware'.
