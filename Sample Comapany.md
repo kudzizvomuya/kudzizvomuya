@@ -169,7 +169,8 @@ or
 ## Payroll
 ### Payroll Settings 
 > Home > Payroll > Payroll Settings 
-Here you configure the following 
+
+**Here you configure the following**
 - Calculate Payroll Working Days Based On
 - Max working hours against Timesheet
 - Email Salary Slip to Employee based on their preffered email 
@@ -180,7 +181,11 @@ Here you configure the following
 - Enter the payroll period 
 ### Income Tax Slab
 > Home > Payroll > Imcome Tax Slab
+
 - Add the tax tables according to SARS Tax Tables 
+![Tax_2021](https://user-images.githubusercontent.com/85683217/124122637-9d00bf00-da76-11eb-83ba-c383061d5064.jpeg)
+
+
 ### Salary Component 
 > Home > Payroll > Salary Component
 - Configure the salary components and formulars 
