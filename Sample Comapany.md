@@ -178,7 +178,8 @@ or
 ### 5.2 Selling settings
 - Selling Settings is where you can define properties and validations which will be applied to the masters and transactions involved in the sales cycle.
 > Home > Selling > Settings > Selling Settings
-- **Under selling settings,thus where you configure the following 
+
+ **Under selling settings,thus where you configure the following**
 - Customer Naming series.
 - Default Territory.
 - Default Customer Group.
@@ -226,7 +227,6 @@ or
 - Configuration of incentive so that it appears on the payslip 
 
 ## HR Module 
-
 ### Employment Type
 > Home > Human Resources > Employee > Employment Type
 - Create the type of employment e.g permanent,contract,casual 
