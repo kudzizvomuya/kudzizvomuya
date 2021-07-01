@@ -324,7 +324,12 @@ This refers to the help desk,to track customer tickets and issues, maintain serv
 - Create service level agreements 
 > Home > Support > Maintanance Schedule 
 - Create new maintanance Schedule 
-
+## QUALITY 
+> Home > Quality > Quality Goal 
+- Create a new quality goal 
+> Home > Quality > Quality Procedures
+- Create new quality procedure 
+> Home > Quality > Quality Feedback > New Qulity Feedback Template 
 
 
 
