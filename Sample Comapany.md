@@ -73,16 +73,30 @@ ServalSupport has 2 operating bank accounts.
 The following defaults can be set for a company:
 
 - Default Finance Book
-
-- Default Letter Head
+ 
 A Finance Book is a book against which all the accounting entries are booked.
+- Default Letter Head
+
+Upload the company's letterhead to appaer on all print formarts 
+
 - Default Holiday List
 
+This refers to the publuc holidays in a full fiscal year
+
 - Standard Working Hours
+
+These are the starndard working hours
 - Default Terms and Conditions
+
+Uploading and creation of the buying and selling terms of condition 
 - Country
+
+Country of operation ,defined when erpnext is set up for the first time,it determines the currency a well.
 - Tax ID
+
+The registered tax number with SARS in south africa 
 - Date of Establishment
+
 
 ### 1.6 
 
@@ -120,14 +134,19 @@ In case, an item is used only in trading, you can categorize it under an Item Gr
 ### 3.1 Check & Create Units of Measurement
 
 
+
 ### 3.2 Create Brands for different products
+> Home > Stock > Brand
+- Add product brands for stock and fixed assets
 
 ### 3.3 Import Items Using Data Import Tool,
+> Home > Data Import and Settings > Import Data
+- Create import list based on the doc type
 
 ## Import Contact and Addresses
 Home > CRM > Sales Pipeline > Contact
 
-Create one contact with all details then import customers using data import tool,## take not of adding 1 on default email and number so that they appear
+- Create one contact with all details then import customers using data import tool,## take not of adding 1 on default email and number so that they appear
 
 ## STEP 4 - Configuring Buying
 
