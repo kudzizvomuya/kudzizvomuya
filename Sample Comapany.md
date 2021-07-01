@@ -147,13 +147,10 @@ Create Supplier
  - Select the default Buying Price List and save 
  ### 4.5 Maintain Price throughout the purchasing cycle 
  - Still under settings,tick maintain price so that a price doesnt change throughout the purchasing process
- 
  ## Step 5 Selling 
  ### 5.0 Create customer Groups 
  > CRM > Settings > Customer Group.
- 
- This comes with 4 preconfigured values but you can edit them to your specific groups
- 
+ - This comes with 4 preconfigured values but you can edit them to your specific groups
  ### 5.1 Create customer 
  **to add new customer add a new customer go to**
 > Home > Selling > Customers
@@ -162,7 +159,6 @@ or
 ### 5.2 Selling settings
 - Selling Settings is where you can define properties and validations which will be applied to the masters and transactions involved in the sales cycle.
 > Home > Selling > Settings > Selling Settings
-
 - **Under selling settings,thus where you configure the following 
 - Customer Naming series.
 - Default Territory.
@@ -170,8 +166,6 @@ or
 - Default Price list.
 - Quotation Validity Days.
 - Choose if sales order is required before Invoice or delivery note 
-
-
 ## Payroll
 ### Payroll Settings 
 > Home > Payroll > Payroll Settings 
@@ -206,8 +200,6 @@ Here you configure the following
 ### Employee Incentive 
 > Home > Payroll > Employee Incentive 
 - Configuration of incentive so that it appears on the payslip 
-
-### 
 
 ## HR Module 
 
@@ -284,6 +276,21 @@ Here you configure the following
 - Disable and enable capacity planning(Allow overtime,allow production on holiday)
 - Configure default warehouses for (WIP,Scrap and Finished Goods)
 - Enable auto updating of BOM
+## Projects 
+A Project is a planned piece of work that is designed to find information about something, to produce something new, or to improve something.
+### Create Project
+> Home > Project > Project
+- Create new project
+### Create Tasks
+> Home > Project > Tasks > New Task
+- Create project Tasks 
+
+### Create Timesheets 
+> Home > Project > Timehseets > Add Timesheet
+### Create Activity Type
+> Home > Project > Activity Type > New Activity 
+- Create new activity on the activity list,Activity Type is a list of different types of activities against which a Timesheet can be made.
+
 
 
 
