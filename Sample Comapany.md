@@ -257,8 +257,34 @@ Here you configure the following
 - Create an the asset category 
 ## Create Asset Locations 
 - Create asset location 
+- 
 ## Maufacturing 
-### 
+### Create warehouse 
+> Home > Stock > Settings > Warehouse
+- Create new manufacturing warehouse and warehouse tree
+### Create Workstation 
+> Home > Manufacturing > Bill of Materials > Workstation
+- A Workstation stores information regarding the place where the workstation operations are carried out.
+### Create Operation 
+> Home > Manufacturing > Bill of Materials > Operation
+- An Operation refers to any manufacturing operation performed on the raw materials to process it further in the manufacturing path.
+### Create Finished Good & Raw Material in Items
+> Home > Stock > Items and Pricing > Item
+- Create Finished goods and raw materials in items.
+### Create BOM 
+> Home > Manufacturing > Bill of Materials > Bill of Materials
+- A Bill of Materials (BOM) is at the heart of the Manufacturing system and the most important document that will help to create other document types like Work Orders and Job Cards.
+### Create Workorder 
+> Home > Manufacturing > Production > Work Order
+- Create a workorder,A Bill of Materials (BOM) is at the heart of the Manufacturing system and the most important document that will help to create other document types like Work Orders and Job Cards.
+### Configure Manufacturing Settings 
+> Home > Manufacturing > Manufacturing Settings 
+- In the settings you configure 
+- Allow multiple consumption of Raw Material
+- Disable and enable capacity planning(Allow overtime,allow production on holiday)
+- Configure default warehouses for (WIP,Scrap and Finished Goods)
+- Enable auto updating of BOM
+
 
 
  
