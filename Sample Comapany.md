@@ -315,6 +315,16 @@ A Project is a planned piece of work that is designed to find information about 
 > Home > Project > Activity Type > New Activity 
 - Create new activity on the activity list,Activity Type is a list of different types of activities against which a Timesheet can be made.
 
+## SUPPORT
+This refers to the help desk,to track customer tickets and issues, maintain server levels and track response and resolutions
+###
+> Home > Support >Issue Type
+- Create Support issue types 
+> Home > Support > Service Level Agreement
+- Create service level agreements 
+> Home > Support > Maintanance Schedule 
+- Create new maintanance Schedule 
+
 
 
 
