@@ -169,14 +169,14 @@ Home > CRM > Sales Pipeline > Contact
 - Navigate to buying 
 > Home > Buying 
 
-- This will lead you the buying module 
+- This will lead you to the buying module 
 - First you navigate to the Buying setting
 > Home > Buying > Buying Setting
 
 ![ERPNEXT_BUYING](https://user-images.githubusercontent.com/85683217/124272573-35fb0d00-db3f-11eb-97f9-55455a924992.gif)
 
 
-1. Change Supplier Naming Series,SUpplier naming series is the unique name that can be given to a supplier in ERPNEXT,it can be the customer name or a system generated ,In our case we choose the system generated ,So we choose naming series 
+1. Change Supplier Naming Series,Supplier naming series is the unique name that can be given to a supplier in ERPNEXT,it can be the customer name or a system generated ,In our case we choose the system generated ,So we choose naming series 
 2. Select the default supplier group,thus as a computer company most of our suppliers are hardware suppliers so we set the defult supplier group to 'Hardware'
 3. We select the default buying list,this is a list with the prices of the items we are buying,so the items price will be fetched from the price list,We can modify the price list by clicking the arrow in front of it,there you can state the countries where its applicable
 4. Select 'Yes' for Purchase order to be required before a purchase invoice is made 
@@ -184,6 +184,7 @@ Home > CRM > Sales Pipeline > Contact
 6. Tick Mintain rate throughout the purchase cycle,ERPNExt will check and validate if there
 7. Choose Acton to take if the price on the invoice differs from the quote 
 8. Assign role to overide stop action,if there is difference in price,
+9. Save
 ### 4.1 Create a supplier
 > Home > Buying > Supplier > Supplier
 
