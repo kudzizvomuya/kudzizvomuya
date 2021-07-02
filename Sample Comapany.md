@@ -111,7 +111,7 @@ The registered tax number with SARS in south africa
 - [ ]  Tax Details - South African Tax Laws
 - [ ]  Journal Entries
 - [ ]  Example: Rent an Office 
-
+## STEP 
 ## STEP 3 - Create Items
 
 ### 3.1 Create item group 
@@ -182,7 +182,7 @@ Home > CRM > Sales Pipeline > Contact
 4. Select 'Yes' for Purchase order to be required before a purchase invoice is made 
 5. Select 'No' for purchase invoice creation to be allowed before reciept,an invoice can be submitted to finance before delivery 
 6. Tick Mintain rate throughout the purchase cycle,ERPNExt will check and validate if there
-7. Choose Acton to take if the price on the invoice differs from the quote 
+7. Choose Action to take if the price on the invoice differs from the quote 
 8. Assign role to overide stop action,if there is difference in price,
 9. Save
 ### 4.1 Create a supplier
