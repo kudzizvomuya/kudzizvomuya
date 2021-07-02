@@ -73,20 +73,20 @@ ServalSupport has 2 operating bank accounts.
 The following defaults can be set for a company:
 
 - Default Finance Book
- 
+ > Accounting > Finance Book > new finance book
+ - **add Serval Support**
 A Finance Book is a book against which all the accounting entries are booked.
+
 - Default Letter Head
+> Accounting > Company > Default Letterhead > Create New Letter Head
 
 Upload the company's letterhead to appaer on all print formarts 
 
-- Default Holiday List
-
-This refers to the publuc holidays in a full fiscal year
-
 - Standard Working Hours
 
-These are the starndard working hours
+These are the standard working hours
 - Default Terms and Conditions
+
 
 Uploading and creation of the buying and selling terms of condition 
 - Country
@@ -145,7 +145,10 @@ In case, an item is used only in trading, you can categorize it under an Item Gr
 ### 3.3.1 Import Items 
 > Data Import > Add New Data Import >Items 
 - Attach xls or csv below is an  
-![Items_import_template ](https://user-images.githubusercontent.com/85683217/124181512-e02e5280-dab5-11eb-98e6-ab141232b16e.png)
+
+| Item Code   | Item Group| Default Unit of Measure | Item Name | Maintain Stock | Image | 
+| ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
+| MAC100      | Products    | Nos | Mac Book Pro 15' | 1 | /file/Mac-i9.jpeg |
 
 
 ## Import Contact and Addresses
@@ -209,8 +212,16 @@ or
 > Home > Payroll > Imcome Tax Slab
 
 - Add the tax tables according to SARS Tax Tables 
-![Tax_2021](https://user-images.githubusercontent.com/85683217/124122637-9d00bf00-da76-11eb-83ba-c383061d5064.jpeg)
 
+| Taxable Income(R)   | Rate of TAX |
+| ------------------- | ---------------- |
+|1 – 216 200    |18% of Income Taxable     |
+| 216 201 -337 800   | 38 916 + 26% of Taxable Income above 216 200  |
+|337 801 – 467 500 | 70 532 + 31% of taxable income above 337 80 |
+|467 501 – 613 600 | 110 739 + 36% of taxable income above 467 500 |
+|613 601 – 782 200 | 163 335 + 39% of taxable income above 613 600 |
+|782 201 – 1 656 600 | 229 089  + 41% of taxable income above 782 200 |
+|1 656 601 and above |587 593 + 45% of taxable income above 1 656 600 |
 
 ### Salary Component 
 > Home > Payroll > Salary Component
@@ -243,6 +254,12 @@ or
 ### Create Designantion 
 > Home > Human Resources > Employee > Designation
 - Create new designation,these are titles given to employees 
+
+
+| Designantion | Description | Skill (Skills) |
+| ----------- | ----------- | ----------- |
+| Construction Manager | The construction manager is responsible for overseeing the entirety of the project from start to finish. | Project Management |
+
 ### Staffing Plan
 > Home > Human Resources > Recruitment > Staffing Plan
 - Job Openings can only be created as per the number of vacancies and budget as per the active Staffing Plan.
