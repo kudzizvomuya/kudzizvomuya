@@ -150,31 +150,55 @@ In case, an item is used only in trading, you can categorize it under an Item Gr
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
 | MAC100      | Products    | Nos | Mac Book Pro 15' | 1 | /file/Mac-i9.jpeg |
 
+-below is the blank template 
+[Item.xlsx](https://github.com/kudzizvomuya/kudzizvomuya/files/6753408/Item.xlsx)
+
 
 ## Import Contact and Addresses
 Home > CRM > Sales Pipeline > Contact
 
 - Create one contact with all details then import customers using data import tool,## take not of adding 1 on default email and number so that they appear
 
-## STEP 4 - Configuring Buying
+| ID | First Name | Last Name | Email Address | Address | Salutation | Gender | Phone | Mobile No | Is Primary (Email IDs) | Is Primary Phone (Contact Numbers ) |
+|---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
+|     | Jack | Reacher | jk@gmoil.com | 34 Sentossa Randburg | Mr | Male | +27718365022 | +27718365022 | 1 | 1 |
+ - Below is the blank template 
+ [Contact.xlsx](https://github.com/kudzizvomuya/kudzizvomuya/files/6753410/Contact.xlsx)
 
+## STEP 4 - Configuring Buying
+- Navigate to buying 
+> Home > Buying 
+
+- This will lead you the buying module 
+- First you navigate to the Buying setting
+> Home > Buying > Buying Setting
+
+![ERPNEXT_BUYING](https://user-images.githubusercontent.com/85683217/124272573-35fb0d00-db3f-11eb-97f9-55455a924992.gif)
+
+
+1. Change Supplier Naming Series,SUpplier naming series is the unique name that can be given to a supplier in ERPNEXT,it can be the customer name or a system generated ,In our case we choose the system generated ,So we choose naming series 
+2. Select the default supplier group,thus as a computer company most of our suppliers are hardware suppliers so we set the defult supplier group to 'Hardware'
+3. We select the default buying list,this is a list with the prices of the items we are buying,so the items price will be fetched from the price list,We can modify the price list by clicking the arrow in front of it,there you can state the countries where its applicable
+4. Select 'Yes' for Purchase order to be required before a purchase invoice is made 
+5. Select 'No' for purchase invoice creation to be allowed before reciept,an invoice can be submitted to finance before delivery 
+6. Tick Mintain rate throughout the purchase cycle,ERPNExt will check and validate if there
+7. Choose Acton to take if the price on the invoice differs from the quote 
+8. Assign role to overide stop action,if there is difference in price,
 ### 4.1 Create a supplier
 > Home > Buying > Supplier > Supplier
-> 
 
-Create Supplier
+- To Add a new Supplier go to Buying,Select Supplier.If its for the 1st time select create new supplier,Else if there are exisiting supplier click add supplier from the top right corner 
+![Supplier Creation ](https://user-images.githubusercontent.com/85683217/124273107-e832d480-db3f-11eb-821c-d0a19f1d30b2.gif)
+
+- To import new suppliers in bulk using the data import tool you can use the template below:
+ [Supplier.xlsx](https://github.com/kudzizvomuya/kudzizvomuya/files/6753796/Supplier.xlsx)
+
 ### 4.2 Create Supplier Group
+- There are different types of suppliers based on the goods and products they supply. To create supplier group its recommended to create a supplier 1st.We have created our supplier from the previous stage 
 > Home > Buying > Supplier Group
-- Supplier Groups is a way to classify supplier based on the product they supply to the company 
-### 4.3 Go to Buying settings  
-> Home > Buying > Settings > Buying Settings
- - Select Default Supplier Group
- - Configure what should be the default value of Supplier Group when creating a new Supplier. For example,if most of your suppliers supply you hardware, you can set the default as 'Hardware'.
- 
- ### 4.4 Configure what should be the default Price List 
- - Select the default Buying Price List and save 
- ### 4.5 Maintain Price throughout the purchasing cycle 
- - Still under settings,tick maintain price so that a price doesnt change throughout the purchasing process
+![Supplier Group](https://user-images.githubusercontent.com/85683217/124277680-9e4ced00-db45-11eb-8c1d-59eec9c1bd57.gif)
+- The Supplier Group 'Software' is now added
+
  ## Step 5 Selling 
  ### 5.0 Create customer Groups 
  > CRM > Settings > Customer Group.
