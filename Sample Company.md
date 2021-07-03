@@ -111,7 +111,24 @@ The registered tax number with SARS in south africa
 - [ ]  Tax Details - South African Tax Laws
 - [ ]  Journal Entries
 - [ ]  Example: Rent an Office 
-## STEP 
+## STEP 3 Naming Series
+
+- Masters and transactions can be given prefixes in the form of naming series.
+ERPNext allows you to make prefixes to your documents, with each prefix forming its own series. For example, a series with prefix INV12#### will have numbers INV120001, INV120002, and so on.
+### 3.1 Setting up Naming Series 
+- The Name Series pattern can be defined or chosen from
+> Home > Settings > Naming Series
+
+ 1.Select the transaction for which you want to make the series. The system will update the current series in the text box.
+ 
+ 2.Edit the series as required with unique prefixes for each series. The first prefix will be the default prefix. Each new prefix Naming Series must be added on a new line. The newly added naming series will be available in the document.
+ 
+ 3.If you want the user to explicitly select a series instead of the default one, check the “User must always select” checkbox. There will be no default naming series if this is ticked.
+ 
+ 4.You can also update the starting point of a series by entering the series name and the starting point in the “Update Series” section.
+ 
+ 5.Click on the Update button to update the set of Naming Series for the selected document.
+ 
 ## STEP 3 - Create Items
 
 ### 3.1 Create item group 
@@ -176,7 +193,7 @@ Home > CRM > Sales Pipeline > Contact
 ![ERPNEXT_BUYING](https://user-images.githubusercontent.com/85683217/124272573-35fb0d00-db3f-11eb-97f9-55455a924992.gif)
 
 
-1. Change Supplier Naming Series,Supplier naming series is the unique name that can be given to a supplier in ERPNEXT,it can be the customer name or a system generated ,In our case we choose the system generated ,So we choose naming series 
+1. Change Supplier [Naming Series](/STEP 3 Naming Series),Supplier naming series is the unique name that can be given to a supplier in ERPNEXT,it can be the customer name or a system generated ,In our case we choose the system generated ,So we choose naming series 
 2. Select the default supplier group,thus as a computer company most of our suppliers are hardware suppliers so we set the defult supplier group to 'Hardware'
 3. We select the default buying list,this is a list with the prices of the items we are buying,so the items price will be fetched from the price list,We can modify the price list by clicking the arrow in front of it,there you can state the countries where its applicable
 4. Select 'Yes' for Purchase order to be required before a purchase invoice is made 
