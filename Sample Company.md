@@ -72,23 +72,52 @@ ServalSupport has 2 operating bank accounts.
 
 The following defaults can be set for a company:
 
-- Default Finance Book
+#### 1.5.1 Default Finance Book
+ 
+ A Finance Book is a book against which all the accounting entries are booked.You can have multiple finance books.
+ For example, one book for tax authorities and  another for stockholders. This is useful if you have to report 
+ depreciation and other values in different ways based on regulatory requirements.
+ You can also use this to post alternate balance sheets for your internal reporting.
+- To create a finance book here is the path:
+ 
  > Accounting > Finance Book > new finance book
- - **add Serval Support**
-A Finance Book is a book against which all the accounting entries are booked.
+ 
+#### 1.5.2 Default Letter Head
 
-- Default Letter Head
+A Letter Head contains your organization's name, logo, address, etc which appears at the top portion in documents.
+Every company has a default Letter Head. These Letter Head values are generally set as Header and Footer in the documents. 
+In ERPNext, you can capture these details in the Letter Head master.
+
+These details will appear in the Print Format of transactions like Sales Order, Sales Invoice, Salary Slip, Purchase Order, etc. 
+In ERPNext, the Letter Head is only for setting up the top part of the document, other content is pre-formatted and can be configured 
+via Print Format and Print Headings.
+
+To create a letter head go to:
 > Accounting > Company > Default Letterhead > Create New Letter Head
 
-Upload the company's letterhead to appaer on all print formarts 
+#### 1.5.2 How to create a Letter Head
+1.Go to the Letter Head list, click on New.
+2.Enter a name for the Letter Head. You can create a separate Letter Head for different office locations.
+3.Choose whether based on image or HTML.
+4.You can enter details in a Letter Head by using:
+
+ - Logo Image: Click on the Attach button to attach an image. Once the image is inserted, HTML for it will be generated automatically.
+ - Other information (like Address, tax ID, etc.) that you want to put on your Letter Head.
+
+5.For letter head to appear on all print formarts make this the default Letter Head, click on "Default Letter Head".
+6.After entering values in the Header and Footer section, save the Letter Head.
 
 - Standard Working Hours
 
-These are the standard working hours
-- Default Terms and Conditions
+#### 1.5.3 Default Terms and Conditions
 
+Terms and conditions contain the terms and conditions of a service/product offered by a seller to a buyer.
+Each Quotation/Sales Order must ideally contain a set of terms of your contract. Terms and conditions are usually 
+included to define terms of service, conditions for using any service or to even limit responsibilities of the 
+seller in case any harm is caused to the buyer due to using the provided goods or services.
+It is usually a good idea to make template(s) of your Terms and Conditions so that you have a standard set of terms.
 
-Uploading and creation of the buying and selling terms of condition 
+To access Terms and Conditions template go to:
 - Country
 
 Country of operation ,defined when erpnext is set up for the first time,it determines the currency a well.
